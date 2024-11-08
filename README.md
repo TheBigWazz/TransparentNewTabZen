@@ -12,3 +12,7 @@ Set the blank page in new tabs to transparent for a clean new tab view. Mod for 
 - Set ```browser.tabs.allow_transparent_browser``` to ```true```
 - In Zen settings, set New Tabs to ```Blank Page```
 
+
+**Websites without a background will display the browser UI underneath the content.*
+
+*Extensions like [Dark Reader](https://github.com/darkreader/darkreader) fix this by setting their own background.*
